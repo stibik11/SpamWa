@@ -13,14 +13,14 @@ This Code Was Made To Make Your Friends Joke: v
 $ pkg install git
 $ pkg install python2
 $ pip2 install requests
-$ git clone https://github.com/sandiwijayani1/SpamWa-2
-$ cd SpamWa-2
+$ git clone https://github.com/stibik11/SpamWa
+$ cd SpamWa
 $ python2 Wa.py
 ```
 
 # Info
 ```
-Creator : ./Sandi W
-Team : Black Hat
+Creator : ./TaurusAselola
+Team : No Team
 
 ```
